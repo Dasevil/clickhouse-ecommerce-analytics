@@ -19,6 +19,7 @@
 git clone https://github.com/Dasevil/clickhouse-ecommerce-analytics.git
 ```
 
+
 3. Запустите систему:
 ```bash
 cd clickhouse-ecommerce-analytics
