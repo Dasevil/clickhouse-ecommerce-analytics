@@ -16,7 +16,7 @@
 
 2. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/username/clickhouse-ecommerce-analytics.git
+git clone https://github.com/Dasevil/clickhouse-ecommerce-analytics.git
 ```
 
 3. Запустите систему:
